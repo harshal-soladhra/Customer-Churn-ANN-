@@ -13,12 +13,6 @@ venv/
 logs/
 logs/**
 
-# Ignore model checkpoints and temporary files
-*.h5
-*.pkl
-*.joblib
-*.ckpt
-
 # Ignore dataset or temporary storage folders (optional)
 data/
 datasets/
